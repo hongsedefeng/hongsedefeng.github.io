@@ -1,0 +1,23 @@
+{
+    "name": "hongsedefeng",
+    "repo": "hongsedefeng/github.io",
+    "client_id": "717043ec74caac04a72d",
+    "client_secret": "12bd8d5aab0a7050e42361a3daa9743b1dfad64f",
+    "title": "莫见乎隐，莫显乎微。故君子慎其独也。",
+    "instruction": "所谓诚其意者，毋自欺也。如恶恶臭，如好好色，此之谓自谦。故君子必慎其独也。",
+    "server_link": "http://119.23.8.25/gh-oauth-server.php",
+    "pin_links": {
+        
+    },
+    "friends": {
+        "imuncle" : "https://hongsedefeng.github.io/"
+    },
+    "icons": {
+        "Github" : {
+            "icon_src" : "images/github.svg",
+            "href" : "",
+            "hidden_img" : null,
+            "width" : 0
+        }
+    }
+}
